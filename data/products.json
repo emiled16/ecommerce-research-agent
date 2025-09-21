@@ -1,0 +1,149 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "base_price": 999.00,
+    "description": "Latest iPhone with titanium design and advanced camera system",
+    "specifications": {
+      "processor": "A17 Pro chip",
+      "display": "6.1-inch Super Retina XDR",
+      "storage": "128GB/256GB/512GB/1TB",
+      "camera": "48MP Main + 12MP Ultra Wide + 12MP Telephoto"
+    },
+    "rating_distribution": {
+      "5_star": 1200,
+      "4_star": 450,
+      "3_star": 180,
+      "2_star": 120,
+      "1_star": 50,
+      "total_reviews": 2000
+    }
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "base_price": 1199.99,
+    "description": "Premium Android smartphone with S Pen and advanced AI features",
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 3",
+      "display": "6.8-inch Dynamic AMOLED 2X",
+      "storage": "256GB/512GB/1TB",
+      "camera": "200MP Main + 50MP Periscope + 10MP Telephoto + 12MP Ultra Wide"
+    },
+    "rating_distribution": {
+      "5_star": 800,
+      "4_star": 600,
+      "3_star": 300,
+      "2_star": 200,
+      "1_star": 100,
+      "total_reviews": 2000
+    }
+  },
+  {
+    "name": "MacBook Pro 14",
+    "brand": "Apple",
+    "category": "Laptops",
+    "base_price": 1599.00,
+    "description": "Professional laptop with M3 chip for creative professionals",
+    "specifications": {
+      "processor": "Apple M3 chip",
+      "display": "14.2-inch Liquid Retina XDR",
+      "memory": "8GB/16GB/32GB unified memory",
+      "storage": "512GB/1TB/2TB/4TB SSD"
+    },
+    "rating_distribution": {
+      "5_star": 1400,
+      "4_star": 350,
+      "3_star": 150,
+      "2_star": 70,
+      "1_star": 30,
+      "total_reviews": 2000
+    }
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Headphones",
+    "base_price": 399.99,
+    "description": "Industry-leading noise canceling wireless headphones",
+    "specifications": {
+      "driver": "30mm dynamic drivers",
+      "battery_life": "30 hours with ANC",
+      "connectivity": "Bluetooth 5.2, NFC",
+      "features": "Adaptive Sound Control, Speak-to-Chat"
+    },
+    "rating_distribution": {
+      "5_star": 1100,
+      "4_star": 500,
+      "3_star": 250,
+      "2_star": 100,
+      "1_star": 50,
+      "total_reviews": 2000
+    }
+  },
+  {
+    "name": "AirPods Pro (2nd Generation)",
+    "brand": "Apple",
+    "category": "Headphones",
+    "base_price": 249.00,
+    "description": "Premium wireless earbuds with active noise cancellation",
+    "specifications": {
+      "chip": "Apple H2 chip",
+      "battery_life": "6 hours (30 hours with case)",
+      "features": "Active Noise Cancellation, Transparency mode",
+      "connectivity": "Bluetooth 5.3"
+    },
+    "rating_distribution": {
+      "5_star": 900,
+      "4_star": 600,
+      "3_star": 300,
+      "2_star": 150,
+      "1_star": 50,
+      "total_reviews": 2000
+    }
+  },
+  {
+    "name": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "category": "Gaming",
+    "base_price": 349.99,
+    "description": "Hybrid gaming console with OLED screen",
+    "specifications": {
+      "display": "7-inch OLED touchscreen",
+      "storage": "64GB internal + microSD support",
+      "battery_life": "4.5-9 hours",
+      "connectivity": "Wi-Fi, Bluetooth 4.1"
+    },
+    "rating_distribution": {
+      "5_star": 1300,
+      "4_star": 400,
+      "3_star": 200,
+      "2_star": 80,
+      "1_star": 20,
+      "total_reviews": 2000
+    }
+  },
+  {
+    "name": "PlayStation 5",
+    "brand": "Sony",
+    "category": "Gaming",
+    "base_price": 499.99,
+    "description": "Next-generation gaming console with 4K gaming capabilities",
+    "specifications": {
+      "processor": "AMD Zen 2 8-core CPU",
+      "graphics": "AMD RDNA 2 GPU",
+      "memory": "16GB GDDR6",
+      "storage": "825GB SSD"
+    },
+    "rating_distribution": {
+      "5_star": 1500,
+      "4_star": 300,
+      "3_star": 150,
+      "2_star": 40,
+      "1_star": 10,
+      "total_reviews": 2000
+    }
+  }
+]

@@ -1,0 +1,296 @@
+{
+  "iPhone 15 Pro": [
+    {
+      "review_id": "rev_001",
+      "reviewer_name": "Sarah M.",
+      "rating": 5,
+      "review_text": "Amazing iPhone 15 Pro! The titanium design feels premium and the camera system is outstanding. Best phone I've ever owned.",
+      "sentiment": "positive",
+      "review_date": "2024-08-15",
+      "verified_purchase": true,
+      "helpful_votes": 24
+    },
+    {
+      "review_id": "rev_002",
+      "reviewer_name": "Mike R.",
+      "rating": 2,
+      "review_text": "Disappointed with this iPhone 15 Pro. Battery life doesn't last as long as advertised and it's overpriced for what you get.",
+      "sentiment": "negative",
+      "review_date": "2024-07-22",
+      "verified_purchase": true,
+      "helpful_votes": 8
+    },
+    {
+      "review_id": "rev_003",
+      "reviewer_name": "Lisa K.",
+      "rating": 3,
+      "review_text": "Decent iPhone 15 Pro. The camera is okay, nothing revolutionary. Standard upgrade from previous models.",
+      "sentiment": "neutral",
+      "review_date": "2024-06-10",
+      "verified_purchase": false,
+      "helpful_votes": 5
+    },
+    {
+      "review_id": "rev_004",
+      "reviewer_name": "David P.",
+      "rating": 4,
+      "review_text": "Great phone overall! Love the new Action Button and the cameras are excellent for photography. Highly recommend.",
+      "sentiment": "positive",
+      "review_date": "2024-09-01",
+      "verified_purchase": true,
+      "helpful_votes": 18
+    }
+  ],
+  "Samsung Galaxy S24 Ultra": [
+    {
+      "review_id": "rev_005",
+      "reviewer_name": "Emma W.",
+      "rating": 5,
+      "review_text": "Outstanding Samsung Galaxy S24 Ultra! The S Pen functionality is incredible and the AI features are game-changing. Perfect for productivity.",
+      "sentiment": "positive",
+      "review_date": "2024-08-20",
+      "verified_purchase": true,
+      "helpful_votes": 31
+    },
+    {
+      "review_id": "rev_006",
+      "reviewer_name": "Chris L.",
+      "rating": 1,
+      "review_text": "Terrible experience with Galaxy S24 Ultra. The software is buggy and the phone overheats constantly. Waste of money!",
+      "sentiment": "negative",
+      "review_date": "2024-07-05",
+      "verified_purchase": true,
+      "helpful_votes": 12
+    },
+    {
+      "review_id": "rev_007",
+      "reviewer_name": "Anna S.",
+      "rating": 3,
+      "review_text": "Fair Samsung Galaxy S24 Ultra for the price. The display is good but nothing special compared to other flagships.",
+      "sentiment": "neutral",
+      "review_date": "2024-06-28",
+      "verified_purchase": false,
+      "helpful_votes": 7
+    },
+    {
+      "review_id": "rev_008",
+      "reviewer_name": "Tom H.",
+      "rating": 4,
+      "review_text": "Excellent phone! The camera zoom capabilities are amazing and the S Pen is very useful for note-taking.",
+      "sentiment": "positive",
+      "review_date": "2024-08-12",
+      "verified_purchase": true,
+      "helpful_votes": 22
+    }
+  ],
+  "MacBook Pro 14": [
+    {
+      "review_id": "rev_009",
+      "reviewer_name": "Jennifer B.",
+      "rating": 5,
+      "review_text": "Perfect MacBook Pro 14 for creative work! The M3 chip performance is incredible and the display is stunning. Best laptop I've owned.",
+      "sentiment": "positive",
+      "review_date": "2024-08-25",
+      "verified_purchase": true,
+      "helpful_votes": 35
+    },
+    {
+      "review_id": "rev_010",
+      "reviewer_name": "Robert K.",
+      "rating": 2,
+      "review_text": "Poor value MacBook Pro 14. Too expensive for what it offers and the ports are limited. Battery life disappoints.",
+      "sentiment": "negative",
+      "review_date": "2024-07-18",
+      "verified_purchase": true,
+      "helpful_votes": 9
+    },
+    {
+      "review_id": "rev_011",
+      "reviewer_name": "Maria G.",
+      "rating": 3,
+      "review_text": "Acceptable MacBook Pro 14. Performance is good but the price is steep. Standard Apple quality, nothing groundbreaking.",
+      "sentiment": "neutral",
+      "review_date": "2024-06-15",
+      "verified_purchase": false,
+      "helpful_votes": 6
+    },
+    {
+      "review_id": "rev_012",
+      "reviewer_name": "Alex T.",
+      "rating": 5,
+      "review_text": "Amazing laptop! The build quality is top-notch and it handles video editing like a dream. Highly recommend for professionals.",
+      "sentiment": "positive",
+      "review_date": "2024-09-03",
+      "verified_purchase": true,
+      "helpful_votes": 28
+    }
+  ],
+  "Sony WH-1000XM5": [
+    {
+      "review_id": "rev_013",
+      "reviewer_name": "Kevin J.",
+      "rating": 5,
+      "review_text": "Excellent Sony WH-1000XM5! The noise cancellation is outstanding and sound quality is superb. Best headphones for travel.",
+      "sentiment": "positive",
+      "review_date": "2024-08-30",
+      "verified_purchase": true,
+      "helpful_votes": 42
+    },
+    {
+      "review_id": "rev_014",
+      "reviewer_name": "Rachel D.",
+      "rating": 2,
+      "review_text": "Disappointed with these headphones. They're uncomfortable for long sessions and the touch controls are unreliable.",
+      "sentiment": "negative",
+      "review_date": "2024-07-12",
+      "verified_purchase": true,
+      "helpful_votes": 14
+    },
+    {
+      "review_id": "rev_015",
+      "reviewer_name": "Steve M.",
+      "rating": 3,
+      "review_text": "Decent headphones. Sound quality is okay and noise cancellation works but nothing exceptional for the price point.",
+      "sentiment": "neutral",
+      "review_date": "2024-06-20",
+      "verified_purchase": false,
+      "helpful_votes": 8
+    },
+    {
+      "review_id": "rev_016",
+      "reviewer_name": "Nicole P.",
+      "rating": 4,
+      "review_text": "Great headphones! Love the comfort and the battery life is impressive. Perfect for daily commuting.",
+      "sentiment": "positive",
+      "review_date": "2024-08-08",
+      "verified_purchase": true,
+      "helpful_votes": 19
+    }
+  ],
+  "AirPods Pro (2nd Generation)": [
+    {
+      "review_id": "rev_017",
+      "reviewer_name": "Brian C.",
+      "rating": 5,
+      "review_text": "Amazing AirPods Pro! The active noise cancellation is incredible and they fit perfectly. Best wireless earbuds ever.",
+      "sentiment": "positive",
+      "review_date": "2024-08-28",
+      "verified_purchase": true,
+      "helpful_votes": 33
+    },
+    {
+      "review_id": "rev_018",
+      "reviewer_name": "Linda F.",
+      "rating": 1,
+      "review_text": "Awful AirPods Pro. They keep falling out of my ears and the case broke after two weeks. Completely useless!",
+      "sentiment": "negative",
+      "review_date": "2024-07-08",
+      "verified_purchase": true,
+      "helpful_votes": 11
+    },
+    {
+      "review_id": "rev_019",
+      "reviewer_name": "Mark W.",
+      "rating": 3,
+      "review_text": "Standard AirPods Pro. They work fine and sound is acceptable but nothing special compared to other premium earbuds.",
+      "sentiment": "neutral",
+      "review_date": "2024-06-25",
+      "verified_purchase": false,
+      "helpful_votes": 4
+    },
+    {
+      "review_id": "rev_020",
+      "reviewer_name": "Jessica R.",
+      "rating": 4,
+      "review_text": "Great earbuds! The spatial audio feature is fantastic and they integrate seamlessly with my iPhone. Highly recommend.",
+      "sentiment": "positive",
+      "review_date": "2024-09-05",
+      "verified_purchase": true,
+      "helpful_votes": 25
+    }
+  ],
+  "Nintendo Switch OLED": [
+    {
+      "review_id": "rev_021",
+      "reviewer_name": "Tyler N.",
+      "rating": 5,
+      "review_text": "Perfect Nintendo Switch OLED! The screen is beautiful and it's great for both handheld and docked gaming. Love it!",
+      "sentiment": "positive",
+      "review_date": "2024-08-18",
+      "verified_purchase": true,
+      "helpful_votes": 29
+    },
+    {
+      "review_id": "rev_022",
+      "reviewer_name": "Amanda L.",
+      "rating": 2,
+      "review_text": "Poor Nintendo Switch OLED. The Joy-Con drift issue persists and the battery life is terrible. Not worth the upgrade.",
+      "sentiment": "negative",
+      "review_date": "2024-07-15",
+      "verified_purchase": true,
+      "helpful_votes": 16
+    },
+    {
+      "review_id": "rev_023",
+      "reviewer_name": "Carlos V.",
+      "rating": 3,
+      "review_text": "Acceptable gaming console. The OLED screen is nice but the performance is the same as the original Switch. Fair upgrade.",
+      "sentiment": "neutral",
+      "review_date": "2024-06-30",
+      "verified_purchase": false,
+      "helpful_votes": 9
+    },
+    {
+      "review_id": "rev_024",
+      "reviewer_name": "Sophie K.",
+      "rating": 4,
+      "review_text": "Excellent console! The OLED display makes games look amazing and the kickstand is much improved. Great for family gaming.",
+      "sentiment": "positive",
+      "review_date": "2024-08-22",
+      "verified_purchase": true,
+      "helpful_votes": 21
+    }
+  ],
+  "PlayStation 5": [
+    {
+      "review_id": "rev_025",
+      "reviewer_name": "Daniel M.",
+      "rating": 5,
+      "review_text": "Outstanding PlayStation 5! The graphics are incredible and loading times are virtually non-existent. Best gaming console ever!",
+      "sentiment": "positive",
+      "review_date": "2024-08-26",
+      "verified_purchase": true,
+      "helpful_votes": 47
+    },
+    {
+      "review_id": "rev_026",
+      "reviewer_name": "Michelle A.",
+      "rating": 1,
+      "review_text": "Terrible PlayStation 5 experience. The console is huge, loud, and overheats frequently. Game library is disappointing too.",
+      "sentiment": "negative",
+      "review_date": "2024-07-20",
+      "verified_purchase": true,
+      "helpful_votes": 13
+    },
+    {
+      "review_id": "rev_027",
+      "reviewer_name": "James H.",
+      "rating": 3,
+      "review_text": "Decent gaming console. Performance is good but the size is impractical and exclusive games are limited. Standard upgrade.",
+      "sentiment": "neutral",
+      "review_date": "2024-06-18",
+      "verified_purchase": false,
+      "helpful_votes": 7
+    },
+    {
+      "review_id": "rev_028",
+      "reviewer_name": "Olivia S.",
+      "rating": 4,
+      "review_text": "Great console! The DualSense controller features are amazing and the 4K gaming is impressive. Highly recommend for gamers.",
+      "sentiment": "positive",
+      "review_date": "2024-09-02",
+      "verified_purchase": true,
+      "helpful_votes": 32
+    }
+  ]
+}

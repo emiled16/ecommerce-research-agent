@@ -1,0 +1,2 @@
+class ExitProgramException(Exception):
+    pass

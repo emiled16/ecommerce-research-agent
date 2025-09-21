@@ -1,0 +1,23 @@
+{
+  "default_promotion": "Free shipping",
+  "default_availability": "In Stock",
+  "pricing": {
+    "base_variation": 1.0,
+    "default_discount": 10
+  },
+  "reviews": {
+    "default_count": 1000,
+    "default_rating": 4.2
+  },
+  "delivery": {
+    "default_days": 7
+  },
+  "rating_distribution": {
+    "five_star": 600,
+    "four_star": 250,
+    "three_star": 100,
+    "two_star": 30,
+    "one_star": 20,
+    "total_reviews": 1000
+  }
+}

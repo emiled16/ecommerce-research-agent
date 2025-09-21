@@ -1,0 +1,137 @@
+{
+  "Amazon": {
+    "shipping_cost": 0.00,
+    "promotion": "Free shipping",
+    "url_format": "https://amazon.com/product/mock-url",
+    "discount": 5,
+    "rating": 4.3,
+    "review_count": 2500,
+    "availability": "In Stock"
+  },
+  "Best Buy": {
+    "shipping_cost": 9.99,
+    "promotion": "Price match guarantee",
+    "url_format": "https://bestbuy.com/product/mock-url",
+    "discount": 10,
+    "rating": 4.0,
+    "review_count": 1800,
+    "availability": "In Stock"
+  },
+  "Walmart": {
+    "shipping_cost": 5.99,
+    "promotion": "Cashback offer",
+    "url_format": "https://walmart.com/product/mock-url",
+    "discount": 15,
+    "rating": 4.1,
+    "review_count": 3200,
+    "availability": "In Stock"
+  },
+  "Target": {
+    "shipping_cost": 9.99,
+    "promotion": "Student discount available",
+    "url_format": "https://target.com/product/mock-url",
+    "discount": 12,
+    "rating": 4.0,
+    "review_count": 1500,
+    "availability": "In Stock"
+  },
+  "Newegg": {
+    "shipping_cost": 14.99,
+    "promotion": "Extended warranty included",
+    "url_format": "https://newegg.com/product/mock-url",
+    "discount": 20,
+    "rating": 3.9,
+    "review_count": 900,
+    "availability": "Limited Stock"
+  },
+  "B&H Photo": {
+    "shipping_cost": 9.99,
+    "promotion": "Trade-in credit available",
+    "url_format": "https://bhphoto.com/product/mock-url",
+    "discount": 8,
+    "rating": 4.5,
+    "review_count": 1200,
+    "availability": "In Stock"
+  },
+  "Costco": {
+    "shipping_cost": 0.00,
+    "promotion": "Member exclusive discount",
+    "url_format": "https://costco.com/product/mock-url",
+    "discount": 18,
+    "rating": 3.8,
+    "review_count": 800,
+    "availability": "In Stock"
+  },
+  "eBay": {
+    "shipping_cost": 5.99,
+    "promotion": "Bundle deal available",
+    "url_format": "https://ebay.com/product/mock-url",
+    "discount": 25,
+    "rating": 4.0,
+    "review_count": 2100,
+    "availability": "In Stock"
+  },
+  "Apple Store": {
+    "shipping_cost": 0.00,
+    "promotion": null,
+    "url_format": "https://apple.com/product/mock-url",
+    "discount": 0,
+    "rating": 4.2,
+    "review_count": 3500,
+    "availability": "In Stock"
+  },
+  "Samsung Store": {
+    "shipping_cost": 5.99,
+    "promotion": "Holiday special pricing",
+    "url_format": "https://samsung.com/product/mock-url",
+    "discount": 22,
+    "rating": 3.8,
+    "review_count": 1600,
+    "availability": "In Stock"
+  },
+  "Google Store": {
+    "shipping_cost": 9.99,
+    "promotion": "Free shipping",
+    "url_format": "https://store.google.com/product/mock-url",
+    "discount": 12,
+    "rating": 4.2,
+    "review_count": 1400,
+    "availability": "In Stock"
+  },
+  "Sony Store": {
+    "shipping_cost": 0.00,
+    "promotion": "Flash sale pricing",
+    "url_format": "https://sony.com/product/mock-url",
+    "discount": 10,
+    "rating": 4.0,
+    "review_count": 1100,
+    "availability": "In Stock"
+  },
+  "Dell": {
+    "shipping_cost": 14.99,
+    "promotion": "Buy 2 get 1 free",
+    "url_format": "https://dell.com/product/mock-url",
+    "discount": 15,
+    "rating": 3.9,
+    "review_count": 1300,
+    "availability": "In Stock"
+  },
+  "HP Store": {
+    "shipping_cost": 9.99,
+    "promotion": "Extended warranty included",
+    "url_format": "https://hp.com/product/mock-url",
+    "discount": 28,
+    "rating": 4.4,
+    "review_count": 950,
+    "availability": "In Stock"
+  },
+  "Microsoft Store": {
+    "shipping_cost": 5.99,
+    "promotion": "Student discount available",
+    "url_format": "https://microsoft.com/product/mock-url",
+    "discount": 8,
+    "rating": 4.1,
+    "review_count": 1700,
+    "availability": "Backorder"
+  }
+}

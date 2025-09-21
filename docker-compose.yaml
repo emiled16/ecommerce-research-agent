@@ -1,0 +1,53 @@
+services:
+  db-init:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - ENVIRONMENT=${ENVIRONMENT}
+    volumes:
+      - database_data:/app/database
+      - ./scripts:/app/scripts
+      - ./alembic:/app/alembic
+      - ./alembic.ini:/app/alembic.ini
+    command: ["sh", "/app/scripts/01-setup_database.sh"]
+    restart: "no"
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - ENVIRONMENT=${ENVIRONMENT}
+      - API_HOST=${API_HOST}
+      - API_PORT=${API_PORT}
+      - API_RELOAD=${API_RELOAD}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - LOG_LEVEL=${LOG_LEVEL}
+    volumes:
+      # named volumes
+      - database_data:/app/database
+      - report_data:/app/reports
+      # bind mounts
+      - ./data:/app/data
+      - ./template:/app/template
+    depends_on:
+      - db-init
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  database_data:
+  report_data:
+
+
+
